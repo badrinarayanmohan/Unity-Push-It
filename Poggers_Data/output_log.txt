@@ -1,0 +1,39 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   23.21.13.9101
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\CCN Game\Poggers_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\CCN Game\Poggers_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\CCN Game\Poggers_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\CCN Game\Poggers_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\CCN Game\Poggers_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\CCN Game\Poggers_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\CCN Game\Poggers_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\CCN Game\Poggers_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\CCN Game\Poggers_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\CCN Game\Poggers_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\CCN Game\Poggers_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\CCN Game\Poggers_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\CCN Game\Poggers_Data\Managed\TextMeshPro-5.5-1.0.56-Runtime.dll (this message is harmless)
+Loading E:\CCN Game\Poggers_Data\Managed\TextMeshPro-5.5-1.0.56-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.356 seconds
+Platform assembly: E:\CCN Game\Poggers_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\CCN Game\Poggers_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.068204 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1aa4 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.394641 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.372124 ms (FindLiveObjects: 0.034762 ms CreateObjectMapping: 0.041052 ms MarkObjects: 0.287370 ms  DeleteObjects: 0.008276 ms)
+
